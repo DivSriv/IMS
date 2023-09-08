@@ -1,1 +1,1 @@
-# IMS
+# IMS (Interns Management System)
